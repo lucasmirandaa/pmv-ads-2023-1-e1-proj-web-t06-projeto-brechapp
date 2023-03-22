@@ -33,7 +33,7 @@ Jonas é está sempre busca peças de qualidade que possam durar muito tempo. El
  
 Objetivos: Jonas prefere lojas que tenham uma boa seleção de roupas vintage, com um estilo único e autêntico. Jonas espera encontrar um brechó que esteja alinhado com seus valores pessoais, que seja comprometido com a sustentabilidade e a responsabilidade social.
 
-Desafios: Como Jonas é um cliente exigente, ele precisa encontrar um brechó que ofereça peças de qualidade e em boas condições. Ele espera encontrar uma boa seleção de roupas exclusivas, o que pode ser um desafio em alguns brechós.  |
+Desafios: Como Jonas é um cliente exigente, ele precisa encontrar um brechó que ofereça peças de qualidade e em boas condições. Ele espera encontrar uma boa seleção de roupas exclusivas, o que pode ser um desafio em alguns brechós.  
 
 ***
 
