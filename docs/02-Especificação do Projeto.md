@@ -9,7 +9,7 @@ Apresente uma visão geral do que será abordado nesta parte do documento, enume
 ## Personas
 
 <div align="left">
-<img src="https://user-images.githubusercontent.com/104217381/226777257-e5b98430-609b-4cb2-972f-09ff57706112.jpg" width="300px" /> 
+<img src="https://user-images.githubusercontent.com/104217381/226777257-e5b98430-609b-4cb2-972f-09ff57706112.jpg" width="200px" />
 
 Nome: Maria, 40 anos - Proprietária de uma loja de brechó.
 
